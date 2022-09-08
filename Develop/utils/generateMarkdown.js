@@ -73,7 +73,7 @@ ${data.tests}
 
 ## Questions
 
-If you have any questions visit my github at ${data.username} or email me at ${data.email}
+If you have any questions visit my github at [https:/github.com/${data.username}/](https://github.com/${data.username}/) or email me at ${data.email}
 `;
 }
 
